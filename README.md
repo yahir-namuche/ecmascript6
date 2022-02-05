@@ -1,1 +1,1 @@
-./es12/index.js
+ECMASCRIPT
